@@ -1,4 +1,4 @@
-#!/Users/albertjblack/Documents/CourseWork/Youtube/Python/DjangoRestFrameword/venv/bin/python3.10
+#!/Users/albertjblack/Documents/CourseWork/Youtube/Python/DjangoRestFramework/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
